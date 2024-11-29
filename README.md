@@ -1,6 +1,8 @@
+## Fernanda Coutinho
+
 ✨ Hello! Welcome to my Github profile ✨
 
-Sou a Fernanda Coutinho, sou estudante de Sistemas de Informação (UFJF) e Engenharia de Software. 
+Sou estudante de Sistemas de Informação (UFJF) e Engenharia de Software. 
 
 ## Ferramentas e Tecnologias 
 
