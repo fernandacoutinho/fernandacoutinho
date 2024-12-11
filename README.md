@@ -1,6 +1,6 @@
 <h2>Fernanda Coutinho</h2>
 
-<img loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp" width=100%/>
 
 ✨ Hello! Welcome to my Github profile ✨
 
