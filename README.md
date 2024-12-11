@@ -2,8 +2,6 @@
 
 <img loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp"/>
 
-https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp
-
 ✨ Hello! Welcome to my Github profile ✨
 
 Sou estudante de Sistemas de Informação (UFJF) e Engenharia de Software. 
