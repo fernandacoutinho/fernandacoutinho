@@ -1,4 +1,4 @@
-<h2 Fernanda Coutinho />
+<h2>Fernanda Coutinho</h2>
 
 <img loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp"/>
 
