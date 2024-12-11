@@ -1,4 +1,4 @@
-## Fernanda Coutinho
+Fernanda Coutinho
 
 <img loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp"/>
 
