@@ -4,7 +4,7 @@
 
 ✨ Hello! Welcome to my Github profile ✨
 
-Sou estudante de Sistemas de Informação (UFJF) e Engenharia de Software. 
+Sou estudante de Sistemas de Informação (UFJF)
 
 ## Ferramentas e Tecnologias 
 
